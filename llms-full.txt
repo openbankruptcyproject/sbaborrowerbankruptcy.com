@@ -1,0 +1,1029 @@
+# sbaborrowerbankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on sbaborrowerbankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Credit Rebuilding After SBA Bankruptcy -- Starting Over
+Source: https://sbaborrowerbankruptcy.com/credit-rebuilding-sba.html
+
+Credit Rebuilding After SBA Bankruptcy
+
+Starting Over
+
+Home » Credit Rebuilding After SBA Bankruptcy
+
+Immediate Steps
+
+Check credit reports, dispute inaccuracies, get a secured credit card, keep non-discharged obligations current. Rebuilding starts the day of discharge.
+
+Recovery Timeline
+
+Improvement within 6-12 months. Unsecured credit in 12-24 months. Auto loans in 12-18 months. FHA mortgage in 2 years after Ch.7 or 1 year into Ch.13.
+
+Starting a New Business
+
+Bankruptcy does not prevent new businesses. Form new entities, get EIN, open accounts. SBA loans unavailable initially but alternative financing can fill the gap. Many successful entrepreneurs have bankruptcy in their past.
+
+Frequently Asked Questions
+
+Can I get another SBA loan?
+
+Not immediately. Generally need 2-3 years of positive credit history and 680+ score. Prior loans must be resolved (discharge counts).
+
+Will vendors work with me?
+
+Most will. Business relationships are based on current behavior. Offer cash or prepay initially to build trust.
+
+How do I explain the bankruptcy?
+
+Be direct. Explain circumstances and what changed. Investors care more about your plan and integrity than credit history.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## EIDL and SBA Loan Crossover -- Multiple SBA Loans in Bankruptcy
+Source: https://sbaborrowerbankruptcy.com/eidl-crossover.html
+
+EIDL and SBA Loan Crossover
+
+Multiple SBA Loans in Bankruptcy
+
+Home » EIDL and SBA Loan Crossover
+
+Multiple Loans in One Case
+
+If you have both an EIDL and a 7(a) or 504 loan, all can be addressed in a single filing. Each is listed as a separate claim. Discharge covers all personal guarantees.
+
+Coordinating Treatment
+
+Each loan's lien is analyzed separately. The SBA may hold EIDL directly while 7(a) involves a private lender. List each creditor separately.
+
+Strategic Considerations
+
+Subchapter V handles all business and personal debts in one case. If the business is closed, Chapter 7 eliminates all guarantees in ~4 months.
+
+Frequently Asked Questions
+
+Does multiple SBA debt affect eligibility?
+
+No limit on amount to discharge. For Ch.13, debts must be under $2.75M. For Subchapter V, under $7.5M.
+
+Can the SBA offset my refund while I'm in bankruptcy?
+
+No. The automatic stay prevents all offsets for all debts listed in the petition.
+
+What about PPP loans?
+
+Forgiven PPP is not a debt. Unforgiven PPP converted to SBA loans is treated the same as any other SBA loan.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SBA Bankruptcy -- Small Business Loan Relief [2026]
+Source: https://sbaborrowerbankruptcy.com/
+
+SBA Bankruptcy
+
+Discharge SBA Loans and Personal Guarantees
+
+SBA Loans Are Dischargeable
+
+Despite what many business owners believe, SBA loans -- including 7(a), 504, EIDL, and microloans -- are fully dischargeable in bankruptcy. There is no special exception for government-backed business loans. Your personal guarantee liability is eliminated upon discharge, and the SBA cannot pursue you personally afterward.
+
+The key question is not whether the debt can be discharged, but which chapter of bankruptcy best fits your situation: Chapter 7 for a clean break, Chapter 13 for individual repayment, or Subchapter V Chapter 11 for business reorganization.
+
+The Personal Guarantee Problem
+
+SBA loans require personal guarantees from business owners with 20% or more ownership. When the business fails, the personal guarantee makes you individually liable for the full loan balance -- potentially hundreds of thousands of dollars. The SBA can pursue your personal assets, garnish wages, intercept tax refunds, and file lawsuits.
+
+Bankruptcy eliminates this personal guarantee obligation. In Chapter 7, it is discharged completely in about 4 months. In Chapter 13 or Subchapter V, you pay what you can afford over 3-5 years. The discharge injunction permanently bars the SBA from collecting on your guarantee.
+
+Your Options by SBA Loan Type
+
+SBA 7(a) Loans: The most common SBA loan. Personal guarantee is dischargeable. Collateral liens survive but personal liability is eliminated.
+
+SBA 504 Loans: Real estate and equipment loans with two lien holders (bank + CDC). Can surrender property and discharge the deficiency, or restructure through Subchapter V.
+
+EIDL Loans: COVID-era disaster loans. Fully dischargeable with no special restrictions. See our companion site for detailed EIDL bankruptcy guidance.
+
+SBA Microloans: Loans up to $50,000 through nonprofit intermediaries. May not require personal guarantees. Fully dischargeable.
+
+Explore All Topics
+
+SBA 7(a) Loans in Bankruptcy -- Discharge and options
+
+SBA 504 Loans in Bankruptcy -- Real estate and equipment
+
+Discharging Personal Guarantees -- Eliminating liability
+
+SBA Microloan Default -- Options and bankruptcy
+
+EIDL and SBA Loan Crossover -- Multiple loans in one case
+
+Subchapter V for SBA Borrowers -- Small business reorganization
+
+SBA Collections Timeline -- What to expect after default
+
+Alternatives to Bankruptcy -- OIC, workout, deed in lieu
+
+Credit Rebuilding After SBA Bankruptcy -- Starting over
+
+Frequently Asked Questions
+
+Can SBA loans be discharged in bankruptcy?
+
+Yes. SBA loans -- including 7(a), 504, EIDL, and microloans -- are fully dischargeable. Unlike student loans, there is no special exception. Personal guarantee liability is eliminated upon discharge.
+
+What happens to my personal guarantee in bankruptcy?
+
+Your personal guarantee obligation is discharged. In Chapter 7, immediately. In Chapter 13 or Subchapter V, you pay what you can afford over 3-5 years and the remainder is discharged. The SBA cannot pursue you personally after discharge.
+
+Can I keep my business and file bankruptcy?
+
+Yes. Subchapter V of Chapter 11 allows you to restructure SBA debt while continuing operations. You remain in control. Most small businesses with SBA debt qualify for Subchapter V if total debts are under $7.5 million.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and SBA Standard Operating Procedures. District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+EIDL Bankruptcy
+Means Test
+Deficiency Balance
+Brunner Test
+Debt Buyer Rights
+GitHub Sponsors
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Discharging SBA Personal Guarantees -- Eliminating Liability
+Source: https://sbaborrowerbankruptcy.com/personal-guarantee-discharge.html
+
+Discharging SBA Personal Guarantees
+
+Eliminating Liability
+
+Home » Discharging SBA Personal Guarantees
+
+The Problem
+
+SBA loans require personal guarantees from 20%+ owners. When the business fails, you are personally liable for the full balance -- $50,000 to $5 million.
+
+Chapter 7 Discharge
+
+Eliminates personal guarantee completely. File individually, list the guarantee as a debt, receive discharge. The SBA is permanently barred from collecting.
+
+Impact on Business Entity
+
+Your personal bankruptcy only discharges your liability. The LLC/corporation still owes. If the entity has assets, the SBA may pursue them. Some file both simultaneously.
+
+Frequently Asked Questions
+
+Can my spouse be liable?
+
+Only if they also signed the guarantee. SBA requires guarantees from owners, not non-owner spouses.
+
+What if I guaranteed multiple loans?
+
+All are dischargeable in a single filing. No limit on number or amount.
+
+Negotiate or file?
+
+The SBA has an offer in compromise program. Bankruptcy eliminates the entire guarantee with no payment on the unsecured portion.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SBA 504 Loans in Bankruptcy -- Real Estate and Equipment
+Source: https://sbaborrowerbankruptcy.com/sba-504-loans.html
+
+SBA 504 Loans in Bankruptcy
+
+Real Estate and Equipment
+
+Home » SBA 504 Loans in Bankruptcy
+
+504 Loan Structure
+
+Two components: conventional bank loan (50%) and SBA-backed CDC debenture (40%). Borrower provides 10% equity. In bankruptcy, you may have two creditors with different lien positions.
+
+Real Estate Collateral
+
+Bank holds first lien, CDC holds second. Liens survive discharge. To keep the property, continue paying or include in a plan. If you surrender, the deficiency is dischargeable.
+
+Strategies
+
+Surrender and discharge deficiency in Ch.7, restructure through Subchapter V, negotiate a short sale, or deed in lieu of foreclosure.
+
+Frequently Asked Questions
+
+Can I keep my building?
+
+Yes, through Chapter 13 or Subchapter V. Continue regular payments and cure arrears through the plan.
+
+What if the property is underwater?
+
+Surrender and discharge the deficiency in Ch.7. Or in Subchapter V, modify the loans.
+
+Is the CDC loan treated differently?
+
+Both are secured claims. The bank has priority. If property value does not cover both, the CDC's unsecured deficiency is general unsecured.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SBA 7(a) Loans in Bankruptcy -- Discharge and Options
+Source: https://sbaborrowerbankruptcy.com/sba-7a-loans.html
+
+SBA 7(a) Loans in Bankruptcy
+
+Discharge and Options
+
+Home » SBA 7(a) Loans in Bankruptcy
+
+7(a) Loan Basics
+
+The SBA 7(a) program provides loans up to $5 million. The SBA guarantees 75-85%. In bankruptcy, the loan is treated as a regular secured or unsecured claim. The SBA guarantee does not affect your discharge rights.
+
+Personal Guarantee
+
+7(a) loans require personal guarantees from anyone owning 20%+. In bankruptcy, the guarantee is dischargeable. Chapter 7 eliminates it completely. Chapter 13 and Subchapter V address it through a plan.
+
+Collateral and Liens
+
+Loans over $25,000 require collateral. In bankruptcy, the lien survives discharge but personal liability is eliminated. The difference between collateral value and loan amount is unsecured and dischargeable.
+
+Frequently Asked Questions
+
+Can I discharge a 7(a) loan in Chapter 7?
+
+Yes. Your personal liability is fully dischargeable. The SBA guarantee does not create a non-dischargeability exception.
+
+What happens to the SBA guarantee?
+
+The lender claims the guarantee, SBA pays, then SBA becomes the creditor. The SBA can file a claim in your case but personal liability is still dischargeable.
+
+Should I negotiate or file bankruptcy?
+
+Try negotiating first. If debt is too large, bankruptcy provides a definitive solution.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Alternatives to Bankruptcy -- For SBA Borrowers
+Source: https://sbaborrowerbankruptcy.com/sba-alternatives.html
+
+Alternatives to Bankruptcy
+
+For SBA Borrowers
+
+Home » Alternatives to Bankruptcy
+
+Offer in Compromise
+
+SBA Form 770. Typical settlements 10-50%. SBA considers income, assets, borrowing ability, and collection cost.
+
+Workout with the Lender
+
+Before the guarantee triggers: modification, forbearance, or settlement. Lenders prefer workouts because triggering the guarantee affects their metrics.
+
+Deed in Lieu
+
+For collateralized loans: surrender property for a release of the deficiency. Get the release in writing.
+
+Assignment for Benefit of Creditors
+
+State-law business closure alternative. Does NOT discharge personal guarantees.
+
+Frequently Asked Questions
+
+Which alternative is best?
+
+Can afford settlement: OIC. Business viable: workout. Property underwater: deed in lieu. Business closing: ABC + personal bankruptcy.
+
+Can I combine alternatives?
+
+Yes. Deed in lieu for collateral, OIC for deficiency, and bankruptcy as backstop.
+
+What if the SBA rejects my OIC?
+
+Submit revised offer or file bankruptcy. Rejection strengthens your bankruptcy case by showing good-faith resolution attempt.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SBA Collections Timeline -- What to Expect After Default
+Source: https://sbaborrowerbankruptcy.com/sba-collections-timeline.html
+
+SBA Collections Timeline
+
+What to Expect After Default
+
+Home » SBA Collections Timeline
+
+Lender Collection (0-6 months)
+
+The private lender initiates collection: demand letters, acceleration, possibly a lawsuit. Negotiate directly -- workouts avoid triggering the SBA guarantee.
+
+SBA Guarantee Purchase (3-12 months)
+
+The lender submits a claim. SBA pays the lender and becomes your creditor. You now have two potential creditors.
+
+SBA and Treasury Collection (6-24 months)
+
+Demand letters, OIC option, then Treasury Offset and cross-servicing. Administrative fees up to 28% added.
+
+DOJ Litigation (18+ months)
+
+Full lawsuit for amount plus interest and penalties. Filing bankruptcy at any point stops everything.
+
+Frequently Asked Questions
+
+When is the best time to file?
+
+Earlier is better. Before Treasury referral avoids the 28% fee surcharge. Before judgment prevents liens.
+
+Can I negotiate after Treasury referral?
+
+Yes, but the balance is now higher. A bankruptcy attorney strengthens your position.
+
+How long can the SBA pursue me?
+
+10-year litigation SOL, but Treasury offset has no limit. Bankruptcy is the only permanent stop.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SBA Microloan Default -- Options and Bankruptcy
+Source: https://sbaborrowerbankruptcy.com/sba-microloan-default.html
+
+SBA Microloan Default
+
+Options and Bankruptcy
+
+Home » SBA Microloan Default
+
+Microloan Overview
+
+Loans up to $50,000 through nonprofit intermediaries. May not require personal guarantees. Less collateral than larger SBA loans.
+
+Default Consequences
+
+The intermediary attempts collection, reports to credit bureaus, and may pursue legal action. Collection is often less aggressive due to smaller amounts.
+
+Bankruptcy Treatment
+
+Fully dischargeable. In Chapter 7, eliminated completely. In Chapter 13, treated as general unsecured. A microloan alone may not justify bankruptcy.
+
+Frequently Asked Questions
+
+Do microloans require a personal guarantee?
+
+Depends on the intermediary. Check your documents. If no guarantee, only business assets are at risk.
+
+Can I just ignore a default?
+
+Not advisable. Even small debts can result in judgments and garnishment.
+
+Is a microloan small enough to handle without bankruptcy?
+
+Under $10,000, negotiation is often practical. For larger amounts or combined with other debts, bankruptcy addresses everything at once.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Subchapter V for SBA Borrowers -- Small Business Reorganization
+Source: https://sbaborrowerbankruptcy.com/subchapter-v-sba.html
+
+Subchapter V for SBA Borrowers
+
+Small Business Reorganization
+
+Home » Subchapter V for SBA Borrowers
+
+Why Subchapter V Is Ideal
+
+Debtor stays in control, no creditors' committee, no disclosure statement, and the plan can be confirmed over SBA objections. Restructure debt and keep the business alive.
+
+Plan Requirements
+
+Pay projected disposable income for 3-5 years. Not discriminate unfairly. Be fair and equitable. Be feasible. The plan can modify SBA loan terms.
+
+SBA Loan Modification
+
+Extend maturity, reduce interest rate to market rate, strip lien to collateral value, or surrender collateral and discharge the deficiency.
+
+Frequently Asked Questions
+
+How much does Subchapter V cost?
+
+Attorney fees $15,000-$30,000. Filing fee $1,738. The trustee is paid from plan payments.
+
+Can sole proprietors use Subchapter V?
+
+Yes. The plan addresses both business and personal debts in one case.
+
+What if the plan fails?
+
+Convert to Chapter 7 or dismiss. Having a realistic plan is critical.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Student Loans in Bankruptcy
+
+Taxes in Bankruptcy
+
+Related Guides
+
+SBA Borrower Bankruptcy
+
+Free bankruptcy information guide
+
+saborrowerbankruptcy.com →
+
+SBA Borrowers in Bankruptcy
+
+Free bankruptcy information guide
+
+sbaborrowersbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+Free bankruptcy information guide
+
+eidlbankruptcy.com →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3

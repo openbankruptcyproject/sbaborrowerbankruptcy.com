@@ -1,0 +1,25 @@
+# SBA Bankruptcy -- Small Business Loan Relief [2026]
+> SBA loan bankruptcy options for small business owners. Chapter 7, Chapter 11 Subchapter V, and personal guarantee discharge. 2026 guide.
+
+## About
+sbaborrowerbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Credit Rebuilding After SBA Bankruptcy -- Starting Over: https://sbaborrowerbankruptcy.com/credit-rebuilding-sba.html
+- EIDL and SBA Loan Crossover -- Multiple SBA Loans in Bankruptcy: https://sbaborrowerbankruptcy.com/eidl-crossover.html
+- SBA Bankruptcy -- Small Business Loan Relief: https://sbaborrowerbankruptcy.com/
+- Discharging SBA Personal Guarantees -- Eliminating Liability: https://sbaborrowerbankruptcy.com/personal-guarantee-discharge.html
+- SBA 504 Loans in Bankruptcy -- Real Estate and Equipment: https://sbaborrowerbankruptcy.com/sba-504-loans.html
+- SBA 7(a) Loans in Bankruptcy -- Discharge and Options: https://sbaborrowerbankruptcy.com/sba-7a-loans.html
+- Alternatives to Bankruptcy -- For SBA Borrowers: https://sbaborrowerbankruptcy.com/sba-alternatives.html
+- SBA Collections Timeline -- What to Expect After Default: https://sbaborrowerbankruptcy.com/sba-collections-timeline.html
+- SBA Microloan Default -- Options and Bankruptcy: https://sbaborrowerbankruptcy.com/sba-microloan-default.html
+- Subchapter V for SBA Borrowers -- Small Business Reorganization: https://sbaborrowerbankruptcy.com/subchapter-v-sba.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
