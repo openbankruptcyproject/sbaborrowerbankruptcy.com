@@ -121,7 +121,7 @@ Frequently Asked Questions
 
 Does multiple SBA debt affect eligibility?
 
-No limit on amount to discharge. For Ch.13, debts must be under $2.75M. For Subchapter V, under $7.5M.
+No limit on amount to discharge. For Ch.13, unsecured debts must be under $526,700 and secured debts under $1,580,125. For Subchapter V, total debts up to $3,424,000.
 
 Can the SBA offset my refund while I'm in bankruptcy?
 
@@ -247,7 +247,7 @@ Your personal guarantee obligation is discharged. In Chapter 7, immediately. In 
 
 Can I keep my business and file bankruptcy?
 
-Yes. Subchapter V of Chapter 11 allows you to restructure SBA debt while continuing operations. You remain in control. Most small businesses with SBA debt qualify for Subchapter V if total debts are under $7.5 million.
+Yes. Subchapter V of Chapter 11 allows you to restructure SBA debt while continuing operations. You remain in control. Most small businesses with SBA debt qualify for Subchapter V if total debts are no more than $3,424,000.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
