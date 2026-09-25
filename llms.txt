@@ -1,5 +1,5 @@
 # SBA Bankruptcy - Small Business Loan Relief [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > SBA loan bankruptcy options for small business owners. Chapter 7, Chapter 11 Subchapter V, and personal guarantee discharge. 2026 guide.
 
@@ -18,6 +18,7 @@ sbaborrowerbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcy
 - SBA Microloan Default - Options and Bankruptcy: https://sbaborrowerbankruptcy.com/sba-microloan-default.html
 - Subchapter V for SBA Borrowers - Small Business Reorganization: https://sbaborrowerbankruptcy.com/subchapter-v-sba.html
 - Privacy Policy: https://sbaborrowerbankruptcy.com/privacy.html
+- About sbaborrowerbankruptcy.com: https://sbaborrowerbankruptcy.com/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
